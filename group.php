@@ -157,7 +157,7 @@
                                         <div class="col-sm-9" data-spy="scroll" id="txtmsg" style="text-align:left; padding-left:35px"></div>
                                         <br><br>
                                         <div>
-                                            <span>------------------------------------</span>
+                                            <!-- <span>------------------------------------</span> -->
                                             <input type="text" name="msg" id="msg" required>
                                             <!-- <button class="btn dropdown-toggle icon_btn" id="attach" data-toggle="dropdown"><i title="Attach" class="fas fa-link" id="icon"></i></button>
                                             <div class="dropdown-menu">
