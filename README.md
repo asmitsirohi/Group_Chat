@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-<img src="assests/screenshot_1.png?raw=true" alt="Screenshot 1" height="500"> <img src="assests/screenshot_2.png?raw=true" alt="Screenshot 2" height="500"> <img src="assests/screenshot_3.png?raw=true" alt="Screenshot 3" height="500"> <img src="assests/screenshot_4.png?raw=true" alt="Screenshot 4" height="500">
+<img src="assests/screenshot_1.png?raw=true" alt="Screenshot 1" height="500"> <img src="assests/screenshot_2.png?raw=true" alt="Screenshot 2" height="500"> <img src="assests/screenshot_3.png?raw=true" alt="Screenshot 3" height="400"> <img src="assests/screenshot_4.png?raw=true" alt="Screenshot 4" height="500">
 
 
 ----
