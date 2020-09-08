@@ -1,0 +1,85 @@
+.border{
+    border:2px solid black; 
+    border-radius: 6px;
+    padding-left: 30px;
+}
+h1{
+    /* text-align: center; */
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p1st{ 
+    /* text-align: center; */
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.continue{
+    /* text-align: center; */
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type=text]{
+    width:90%;
+    height: 35px;
+    border-radius: 4px;
+    padding: 3px 8px;
+    margin: 2px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+input[type=email],[type=password]{
+    width:62%;
+    height: 35px;
+    border-radius: 4px;
+    padding: 3px 8px;
+    margin: 2px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#p2nd{
+    /* padding-left: 35px;  */
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a:link{
+    text-decoration: none;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+a:visited{
+    text-decoration: none;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;     
+}
+
+a:active{
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid dodgerblue;
+    margin: auto;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:dodgerblue ;
+    color: white;
+}
+
+input[type=submit]{
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: dodgerblue;
+    color: white;
+    font: bolder;
+    font-size: 18px; 
+
+}

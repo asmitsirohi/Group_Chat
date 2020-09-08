@@ -1,0 +1,73 @@
+h1,h3{
+    text-align: center;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.border{
+    border:1px solid black; 
+    border-radius: 6px;
+}
+
+.myclass:hover .myclass1 {
+    background-color: dodgerblue;
+    color: white;  
+  }
+
+.dropbtn{
+    background-color:white;
+    color:dodgerblue;
+    /* padding: 5px; */
+    /* font-size: 20px; */
+    border: none;
+    cursor: pointer;
+}
+
+.myclass3{
+    text-align: center;
+    width: 220px;
+    font-size: 15px;
+    height: 80px;
+}
+
+#grp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+input[type=text]{
+    width:33.7%;
+    height: 30px;
+    border-radius: 4px;
+    padding: 3px 8px;
+    margin: 4px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+  
+}
+
+.myclass4{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myclass4:hover {
+    background-color: dodgerblue;
+    color: white;  
+  }
+
+.myclass4:active {
+    background-color: dodgerblue;
+    color: white;  
+}
+
+/* #member{
+    width:66%;
+    height: 30px;
+    border-radius: 4px;
+    padding: 3px 8px;
+    margin: 4px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+} */

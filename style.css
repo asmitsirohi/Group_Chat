@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.border{
+    /* width: 450px; */
+    /* height: 500px; */
+    /* margin: auto; */
+    border:1px solid gray; 
+    border-radius: 6px;
+}
+
+input[type=email],[type=password]{
+    width:60%;
+    height: 35px;
+    border-radius: 4px;
+    padding: 0px 8px;
+    margin: 4px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.form-group{
+    text-align: center;
+}
+
+.sigin{ 
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.continue{
+    text-align: center;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type=submit]{
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: dodgerblue;
+    color: white;
+    font: bolder;
+    font-size: 18px; 
+
+}
+
+a:link{
+    text-decoration: none;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+a:visited{
+    text-decoration: none;
+    color: dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;     
+}
+
+a:active{
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid dodgerblue;
+    margin: auto;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:dodgerblue ;
+    color: white;
+}
